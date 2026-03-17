@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Naresh! 👋
 
-<!--
-**naresh-naik/naresh-naik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Engineer in Progress
+Student at IIT Kharagpur building
+toward AI Agent Engineer by May 2026
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python • NumPy • Pandas • SQL
+- Machine Learning (in progress)
+- LLMs • AI Agents (coming soon)
+- MERN Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Currently Learning
+- SQL → Matplotlib → ML → Deep Learning
+- Building toward AI Agent systems
+
+## 🔥 Projects
+- BeyondChats AI — Reddit persona
+  generator using LLMs
+
+
